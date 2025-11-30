@@ -3,6 +3,7 @@ yfinance
 pandas
 numpy
 plotly
+cvxpy
 pyportfolioopt
 matplotlib
 seaborn
